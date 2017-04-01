@@ -4,16 +4,16 @@
 ![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/1.jpg)
 ![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/2.jpg)
 ![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/3.jpg)
-![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/111.jpg)
-![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/112.jpg)
-![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/xiazai.jpg)
-![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/xiazai2.jpg)
-![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/xiazai3.jpg)
-![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/toast.jpg)
+![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/111.png)
+![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/112.png)
+![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/xiazai.png)
+![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/xiazai2.png)
+![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/xiazai3.png)
+![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/toast.png)
 
 	新版本的对话框封装了 下载功能 
 	Gradle:api要求>=19
-    compile 'com.smart.dialog_library:dialog_lib:1.1.2'
+    compile 'com.smart.dialog_library:dialog_lib:1.1.3'
 
 
 activity的代码：(有些老了，可以不看，建议下载运行demo)
