@@ -5,16 +5,17 @@
     compile 'com.smart.dialog_library:dialog_lib:1.1.4'
 
 	使用方法在后面
-![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/1.jpg)
-![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/nullxz.png)
-![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/2.jpg)
-![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/3.jpg)
 ![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/111.png)
 ![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/112.png)
 ![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/xiazai.png)
 ![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/xiazai2.png)
 ![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/xiazai3.png)
 ![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/toast.png)
+![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/1.jpg)
+![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/nullxz.png)
+![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/2.jpg)
+![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/3.jpg)
+
 
 
 
