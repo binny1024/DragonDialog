@@ -2,9 +2,9 @@
 
 	使用方法在后面
 ![](https://github.com/xubinbin1024/dialog/blob/master/CostomDialog/gif/wwww.jpg)
-![](https://github.com/xubinbin1024/dialog/blob/master/CostomDialog/gif/QQ%E5%9B%BE%E7%89%8720170311155142.jpg)
-![](https://github.com/xubinbin1024/dialog/blob/master/CostomDialog/gif/QQ%E5%9B%BE%E7%89%8720170311155146.jpg)
-![](https://github.com/xubinbin1024/dialog/blob/master/CostomDialog/gif/QQ%E5%9B%BE%E7%89%8720170311155149.jpg)
+![](https://github.com/xubinbin1024/dialog/blob/master/CostomDialog/gif/1.jpg)
+![](https://github.com/xubinbin1024/dialog/blob/master/CostomDialog/gif/2.jpg)
+![](https://github.com/xubinbin1024/dialog/blob/master/CostomDialog/gif/3.jpg)
 	
 	新版本的对话框封装了 下载功能 
 	Gradle:api要求>=19
