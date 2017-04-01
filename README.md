@@ -5,7 +5,8 @@
 ![](https://github.com/xubinbin1024/dialog/blob/master/CostomDialog/gif/1.jpg)
 ![](https://github.com/xubinbin1024/dialog/blob/master/CostomDialog/gif/2.jpg)
 ![](https://github.com/xubinbin1024/dialog/blob/master/CostomDialog/gif/3.jpg)
-	
+
+
 	新版本的对话框封装了 下载功能 
 	Gradle:api要求>=19
 	compile 'com.smart.dialog_library:dialog_lib:1.1.2'
