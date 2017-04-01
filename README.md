@@ -1,9 +1,9 @@
 可以自定义风格，还可以用它实现下载可以自定义进入退出动画等
 
 	使用方法在后面
-![](https://github.com/xubinbin1024/dialog/blob/master/gif/1.jpg)
-![](https://github.com/xubinbin1024/dialog/blob/master/gif/2.jpg)
-![](https://github.com/xubinbin1024/dialog/blob/master/gif/3.jpg)
+![](https://github.com/xubinbin1024/DragonDialog/blob/master/DragonDialog/gif/1.jpg)
+![](https://github.com/xubinbin1024/DragonDialog/blob/master/DragonDialog/gif/2.jpg)
+![](https://github.com/xubinbin1024/DragonDialog/blob/master/DragonDialog/gif/3.jpg)
 
 	新版本的对话框封装了 下载功能 
 	Gradle:api要求>=19
