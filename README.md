@@ -7,7 +7,9 @@
 
 	新版本的对话框封装了 下载功能 
 	Gradle:api要求>=19
-	compile 'com.smart.dialog_library:dialog_lib:1.1.2'
+	之前的版本：compile 'com.smart.dialog_library:dialog_lib:1.1.1'
+	1.1.2以后的引用方式：
+	compile 'com.smart.library:dialog_lib:1.1.2'
 
 activity的代码：
 
