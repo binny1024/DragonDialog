@@ -1,18 +1,30 @@
-可以自定义风格，还可以用它实现下载可以自定义进入退出动画等
+可以自定义风格，还可以用它实现下载可以自定义进入退出动画等,可定制大小和位置
 
     新版本的对话框封装了 下载功能
 	Gradle:api要求>=19
     compile 'com.smart.dialog_library:dialog_lib:1.1.4'
 
 	使用方法在后面
+
+一个按钮的使用图示
 ![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/111.png)
+
+两个按钮的使用图示
 ![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/112.png)
+
+下载
 ![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/xiazai.png)
 ![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/xiazai2.png)
 ![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/xiazai3.png)
-![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/toast.png)
-![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/1.jpg)
+
+空下载链接
 ![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/nullxz.png)
+
+toast
+![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/toast.png)
+
+老版本图示
+![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/1.jpg)
 ![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/2.jpg)
 ![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/3.jpg)
 
