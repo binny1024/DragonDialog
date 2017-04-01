@@ -1,5 +1,9 @@
 可以自定义风格，还可以用它实现下载可以自定义进入退出动画等
 
+    新版本的对话框封装了 下载功能
+	Gradle:api要求>=19
+    compile 'com.smart.dialog_library:dialog_lib:1.1.4'
+
 	使用方法在后面
 ![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/1.jpg)
 ![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/nullxz.png)
@@ -12,9 +16,6 @@
 ![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/xiazai3.png)
 ![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/toast.png)
 
-	新版本的对话框封装了 下载功能 
-	Gradle:api要求>=19
-    compile 'com.smart.dialog_library:dialog_lib:1.1.3'
 
 
 activity的代码：(有些老了，可以不看，建议下载运行demo)
