@@ -1,7 +1,6 @@
 可以自定义风格，还可以用它实现下载可以自定义进入退出动画等
 
 	使用方法在后面
-![](https://github.com/xubinbin1024/dialog/blob/master/CostomDialog/gif/wwww.jpg)
 ![](https://github.com/xubinbin1024/dialog/blob/master/CostomDialog/gif/1.jpg)
 ![](https://github.com/xubinbin1024/dialog/blob/master/CostomDialog/gif/2.jpg)
 ![](https://github.com/xubinbin1024/dialog/blob/master/CostomDialog/gif/3.jpg)
