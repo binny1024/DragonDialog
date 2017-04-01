@@ -73,7 +73,7 @@ public class MainActivity extends AppCompatActivity {
                 .setLeftBtnTextColor(R.color.white)
 //                .setDoubleBtnBackgroungRes(R.color.white,R.drawable.rihgt_btn_bg)
                 .setMessage("更新提示信息\n跟新内容")
-                .setDownloadUrl(apkUrl,"")
+                .setDownloadUrl("","")
                 .setClickedAnimation(true)
                 .setOnDownloadListener(new OnDownloadApkListener() {
                     @Override
