@@ -2,6 +2,7 @@
 
 	使用方法在后面
 ![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/1.jpg)
+![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/nullxiazai.jpg)
 ![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/2.jpg)
 ![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/3.jpg)
 ![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/111.png)
