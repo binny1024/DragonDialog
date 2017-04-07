@@ -26,7 +26,8 @@ dependencies {
     })
     compile 'com.android.support:appcompat-v7:25.3.1'
     testCompile 'junit:junit:4.12'
-    compile 'com.smart.dialog_library:dialog_lib:1.1.4'
+    //    compile 'com.smart.dialog_library:dialog_lib:1.1.4'
     compile 'com.jakewharton:butterknife:8.5.1'
     compile 'com.jakewharton:butterknife-compiler:8.5.1'
+    compile project(':dialog_lib')
 }
