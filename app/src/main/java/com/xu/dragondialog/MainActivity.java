@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
         new DialogCustom(this).setDoubleBtnTextLR("取消", "确定")
                 .setTitle("设置了背景色")
                 .setTitleBackgroundResId(R.drawable.title_bg)
-                .setMessage("设置了背景色")
+                .setMessage("设置了背景色设置了背景色设置了背景色设置了\"+\"\\n\"+设置了背景色设置了背景色设置了背景色设置了\"+\"\\n\"+设置了背景色设置了背景色设置了背景色设置了\"+\"\\n\"+设置了背景色设置了背景色设置了背景色设置了\"+\"\\n\"+设置了背景色设置了背景色设置了背景色设置了\"+\"\\n\"+设置了背景色设置了背景色设置了背景色设置了\"+\"\\n\"+设置了背景色设置了背景色设置了背景色设置了\"+\"\\n\"+设置了背景色设置了背景色设置了背景色设置了"+"\n"+"背景色设置了背景色设置了背景色设置了背景色设置了背景色设置了背景色设置了背景色设置了背景色设置了背景色设置了背景色")
                 .setInOutAnimationStyle(DragonConstant.ANIM_SCALE_IN_ALPHA_OUT)
                 .setMessageBackgroundResId(R.drawable.msg_bg)
                 .setOnDoubleBtnClickedListener(new OnDoubleBtnClickedListener() {
