@@ -5,39 +5,7 @@
 	Gradle:api要求>=19
     compile 'com.smart.dialog_library:dialog_lib:1.1.5'
 案例展示
-
-![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/11.png)
-![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/22.png)
-
-一个按钮的使用图示
-
-![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/111.png)
-
-两个按钮的使用图示
-
-![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/112.png)
-
-下载
-
-![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/xiazai.png)
-![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/xiazai2.png)
-![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/xiazai3.png)
-
-空下载链接
-
-![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/nullxz.png)
-
-toast
-
-![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/toast.png)
-
-
-
-缩放演示
-![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/scale.png)
-
-
-
+![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/30.gif)
 
 两个按钮
 
@@ -175,8 +143,8 @@ Toast
 		<translate android:duration="2000"
 			android:fromYDelta="100.0%p" android:toYDelta="0.0" />
 	</set>
-	
-	
+
+
 2.2 slide_down_out.xml
 
 	<?xml version="1.0" encoding="utf-8"?>
@@ -185,7 +153,7 @@ Toast
 		<translate android:duration="2000"
 			android:fromYDelta="0.0" android:toYDelta="100.0%p" />
 	</set>
-	
+
 
 
 2.3、在style.xml文件中
@@ -201,3 +169,37 @@ Toast
     <uses-permission android:name="android.permission.INTERNET"/>
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
 	注意6.0以上的设备需要动态获取运行时权限。
+
+
+![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/11.png)
+![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/22.png)
+
+一个按钮的使用图示
+
+![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/111.png)
+
+两个按钮的使用图示
+
+![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/112.png)
+
+下载
+
+![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/xiazai.png)
+![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/xiazai2.png)
+![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/xiazai3.png)
+
+空下载链接
+
+![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/nullxz.png)
+
+toast
+
+![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/toast.png)
+
+
+
+缩放演示
+![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/scale.png)
+
+
+
