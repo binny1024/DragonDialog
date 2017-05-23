@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dialog_Library</string>
+    <string name="dialog_title">消息标题</string>
+    <string name="dialog_message">提示消息</string>
+    <string name="dialog_download_data">下载进度  </string>
+    <string name="dialog_total_data">总大小:</string>
+
+</resources>

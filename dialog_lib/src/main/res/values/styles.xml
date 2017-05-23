@@ -1,0 +1,54 @@
+<resources>
+    <!--自定义dialog背景全透明无边框theme -->
+    <style name="MyTechDialog" parent="android:style/Theme.Dialog">
+        <!--背景颜色及和透明程度-->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!--是否去除标题 -->
+        <item name="android:windowNoTitle">true</item>
+        <!--是否去除边框-->
+        <item name="android:windowFrame">@null</item>
+        <!--是否浮现在activity之上-->
+        <item name="android:windowIsFloating">true</item>
+        <!--是否模糊-->
+        <item name="android:backgroundDimEnabled">false</item>
+        <!--半透明-->
+        <item name="android:windowIsTranslucent">false</item>
+    </style>
+
+    <!--上下交错效果-->
+    <style name="slide_up_down" parent="android:Animation" mce_bogus="1">
+        <item name="android:windowEnterAnimation">@anim/slide_up_in</item>
+        <item name="android:windowExitAnimation">@anim/slide_down_out</item>
+    </style>
+    <!--淡入淡出效果-->
+    <style name="fade_in_out" parent="android:Animation" mce_bogus="1">
+        <item name="android:windowEnterAnimation">@anim/fade_in</item>
+        <item name="android:windowExitAnimation">@anim/fade_out</item>
+    </style>
+    <!--放大淡出效果-->
+    <style name="scale_in_alpha_out" parent="android:Animation" mce_bogus="1">
+        <item name="android:windowEnterAnimation">@anim/scale_in</item>
+        <item name="android:windowExitAnimation">@anim/alpha_out</item>
+    </style>
+    <!--压缩变小淡出效果-->
+    <style name="hyperspace_in_out" parent="android:Animation" mce_bogus="1">
+        <item name="android:windowEnterAnimation">@anim/hyperspace_in</item>
+        <item name="android:windowExitAnimation">@anim/hyperspace_out</item>
+    </style>
+    <!--右往左推出效果-->
+    <style name="push_left_in_out" parent="android:Animation" mce_bogus="1">
+        <item name="android:windowEnterAnimation">@anim/push_left_in</item>
+        <item name="android:windowExitAnimation">@anim/push_left_out</item>
+    </style>
+    <!--下往上推出效果-->
+    <style name="push_up_in_out" parent="android:Animation" mce_bogus="1">
+        <item name="android:windowEnterAnimation">@anim/push_up_in</item>
+        <item name="android:windowExitAnimation">@anim/push_up_out</item>
+    </style>
+    <!--左右交错效果-->
+    <style name="slide_left_right" parent="android:Animation" mce_bogus="1">
+        <item name="android:windowEnterAnimation">@anim/slide_left</item>
+        <item name="android:windowExitAnimation">@anim/slide_right</item>
+    </style>
+
+</resources>
