@@ -21,6 +21,7 @@ import android.view.WindowManager;
 import android.view.animation.AlphaAnimation;
 import android.view.animation.Animation;
 import android.widget.Button;
+import android.widget.FrameLayout;
 import android.widget.LinearLayout;
 import android.widget.ProgressBar;
 import android.widget.RelativeLayout;
@@ -363,6 +364,10 @@ public class DialogCustom extends Dialog {
         if (openDownloader) {
             setDownLoadDialog();
         }
+        /*
+        * 非吐司的情况下
+        * 控制显示的宽高
+        * */
         if (notToast) {
             Window dialogWindow = getWindow();
             WindowManager windowManager = mContext.getWindowManager();
@@ -531,7 +536,7 @@ public class DialogCustom extends Dialog {
             * */
             if (TextUtils.isEmpty(titleStr)&&TextUtils.isEmpty(leftBtnStr)&&TextUtils.isEmpty(rightBtnStr)&&!dialogScale) {
                 messageTv.setGravity(Gravity.CENTER);
-                messageTv.setLayoutParams(new LinearLayout.LayoutParams(ViewGroup.LayoutParams.WRAP_CONTENT
+                messageTv.setLayoutParams(new FrameLayout.LayoutParams(ViewGroup.LayoutParams.WRAP_CONTENT
                         , ViewGroup.LayoutParams.WRAP_CONTENT));//匹配父布局
 
             }else {

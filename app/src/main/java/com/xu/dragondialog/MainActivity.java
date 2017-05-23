@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
     @BindView(R.id.btn_toast)
     Button btnToast;
 
+    private final String msg="设置了背景色设置了背景色设置了背景色设置了\"+\"\\n\"+设置了背景色设置了背景色设置了背景色设置了\"+\"\\n\"+设置了背景色设置了背景色设置了背景色设置了\"+\"\\n\"+设置了背景色设置了背景色设置了背景色设置了\"+\"\\n\"+设置了背景色设置了背景色设置了背景色设置了\"+\"\\n\"+设置了背景色设置了背景色设置了背景色设置了\"+\"\\n\"+设置了背景色设置了背景色设置了背景色设置了\"+\"\\n\"+设置了背景色设置了背景色设置了背景色设置了"+"\n"+"背景色设置了背景色设置了背景色设置了背景色设置了背景色设置了背景色设置了背景色设置了背景色设置了背景色设置了背景色";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -37,9 +38,10 @@ public class MainActivity extends AppCompatActivity {
     @OnClick(R.id.btn_double)
     public void onBtnDoubleClicked() {
         new DialogCustom(this).setDoubleBtnTextLR("取消", "确定")
+                .setDialogScale(0.5f,0.9f)
                 .setTitle("设置了背景色")
                 .setTitleBackgroundResId(R.drawable.title_bg)
-                .setMessage("设置了背景色设置了背景色设置了背景色设置了\"+\"\\n\"+设置了背景色设置了背景色设置了背景色设置了\"+\"\\n\"+设置了背景色设置了背景色设置了背景色设置了\"+\"\\n\"+设置了背景色设置了背景色设置了背景色设置了\"+\"\\n\"+设置了背景色设置了背景色设置了背景色设置了\"+\"\\n\"+设置了背景色设置了背景色设置了背景色设置了\"+\"\\n\"+设置了背景色设置了背景色设置了背景色设置了\"+\"\\n\"+设置了背景色设置了背景色设置了背景色设置了"+"\n"+"背景色设置了背景色设置了背景色设置了背景色设置了背景色设置了背景色设置了背景色设置了背景色设置了背景色设置了背景色")
+                .setMessage(msg)
                 .setInOutAnimationStyle(DragonConstant.ANIM_SCALE_IN_ALPHA_OUT)
                 .setMessageBackgroundResId(R.drawable.msg_bg)
                 .setOnDoubleBtnClickedListener(new OnDoubleBtnClickedListener() {
@@ -58,7 +60,7 @@ public class MainActivity extends AppCompatActivity {
     @OnClick(R.id.btn_single)
     public void onBtnSingleClicked() {
         new DialogCustom(this).setTitle("默认背景色")
-                .setMessage("默认背景色")
+                .setMessage(msg)
                 .setSingleBtnTextR("one")
                 .setInOutAnimationStyle(DragonConstant.ANIM_FADE_IN_OUT)
                 .setOnSingleClicedkListener(new OnSingleBtnClickedListener() {
@@ -80,7 +82,7 @@ public class MainActivity extends AppCompatActivity {
                 .setInOutAnimationStyle(R.style.slide_left_right)
                 .setLeftBtnTextColor(R.color.white)
                 .setDoubleBtnBackgroungRes(R.drawable.left_btn_bg, R.drawable.right_btn_bg)
-                .setMessage("更新提示信息\n跟新内容")
+                .setMessage(msg)
                 .setDownloadUrl(apkUrl, "")
                 .setClickedAnimation(true)
                 .setOnDownloadListener(new OnDownloadApkListener() {
@@ -99,7 +101,7 @@ public class MainActivity extends AppCompatActivity {
     @OnClick(R.id.btn_toast)
     public void onViewClicked() {
         new DialogCustom(this)
-                .setToast("发撒好方法放假还是发生了疯狂就爱疯了", 2000)
+                .setToast(msg, 2000)
                 .setInOutAnimationStyle(DragonConstant.ANIM_FADE_IN_OUT)
 //                .setToastDrawableId(R.drawable.dialog_bg)
 //                .setDialogScale(0.2f, 0.5f)
