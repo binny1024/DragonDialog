@@ -3,7 +3,7 @@
 
     新版本的对话框封装了 下载功能
 	Gradle:api要求>=16
-    compile 'com.smart.dialog_library:dialog_lib:1.1.7'
+    compile 'com.smart.dialog_library:dialog_lib:1.1.8'
 案例展示
 ![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/30.gif)
 
