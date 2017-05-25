@@ -1,6 +1,8 @@
 # Created by .ignore support plugin (hsz.mobi)
 .gitignore
-.gradle/
 .idea/workspace.xml
 build/
 local.properties
+.gradle
+.idea
+.
