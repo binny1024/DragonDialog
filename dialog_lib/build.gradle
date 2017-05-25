@@ -9,8 +9,8 @@ android {
     buildToolsVersion "25.0.2"
     resourcePrefix "dialog_"  //资源前缀
     defaultConfig {
-        minSdkVersion 15
-        targetSdkVersion 25
+        minSdkVersion 16
+        targetSdkVersion 22
         versionCode 50
         versionName "1.0"
 
