@@ -201,5 +201,6 @@ toast
 缩放演示
 ![](https://github.com/xubinbin1024/DragonDialog/blob/master/gif/scale.png)
 
-
+##### QQ：交流群 ：192268854
+![](https://github.com/Xbean1024/XHttp/blob/master/gif/QQ.JPG)
 
